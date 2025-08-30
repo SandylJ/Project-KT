@@ -12,7 +12,7 @@ This repository hosts a single-page web game. The site is published via GitHub P
 
 ## Local development
 
-Open `index.html` in your browser.
+Open `docs/index.html` in your browser.
 
 ## GitHub Pages
 
